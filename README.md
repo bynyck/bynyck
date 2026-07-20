@@ -2,9 +2,9 @@
 
 `Software Developer`
 
-Hello, my name is Nicollas Nascimento. I'm a software developer with a strong curiosity for learning and improving.
+Hello! I'm Nicollas Nascimento, a Software Engineering student focused on the JavaScript ecosystem.
 
-I enjoy building real projects, solving problems and turning ideas into practical solutions using JavaScript, Node.js, Express and REST APIs.
+I'm currently building real-world projects with JavaScript, Node.js and Express, while improving my knowledge of software architecture, REST APIs and backend development.
 
 ### Technologies and tools
 
@@ -21,11 +21,3 @@ I enjoy building real projects, solving problems and turning ideas into practica
 ### Contact
 
 Reach me at: [nicollasnascimento.pc@gmail.com](mailto:nicollasnascimento.pc@gmail.com)
-
-<br>
-
-<img
-  src="./gon-horizontal.jpg"
-  alt="Gon horizontal banner"
-  width="100%"
-/>
