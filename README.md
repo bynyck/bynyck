@@ -1,6 +1,6 @@
 ## Nicollas Nascimento
 
-`Software Developer`
+`Software Engineer`
 
 Hello! I'm Nicollas Nascimento, a Software Engineering student focused on the JavaScript ecosystem.
 
