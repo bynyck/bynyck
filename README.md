@@ -4,7 +4,7 @@
 
 Hello! I'm Nicollas Nascimento, a Software Engineering student focused on the JavaScript ecosystem.
 
-I'm currently building real-world projects with JavaScript, Node.js and Express, while improving my knowledge of software architecture, REST APIs and backend development.
+I'm currently building real-world projects with TypeScript, Node.js and Express, while improving my knowledge of software architecture, REST APIs and backend development.
 
 ### Technologies and tools
 
