@@ -8,7 +8,10 @@ I'm currently building real-world projects with TypeScript, Node.js and Express,
 
 ### Technologies
 
-<img width="500" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,tailwind,bootstrap,python,mysql,postgres,postman" />
+<p>
+  <img height="35" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,tailwind,bootstrap,python,mysql,postgres,postman,vitest" />
+  <img height="35" src="https://cdn.simpleicons.org/zod" alt="Zod" />
+</p>
 
 ### Contact
 
